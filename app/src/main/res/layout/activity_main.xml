@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/newbackground"
+    android:background="@android:color/holo_blue_bright"
     tools:context="com.smiledwatermelon.lession2m8b.MainActivity">
 
     <LinearLayout
@@ -18,8 +18,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30sp"
+            android:background="@color/colorPrimaryDark"
             android:gravity="center_horizontal"
             android:text="@string/HeadTextView"
+            android:textColor="@android:color/background_light"
             android:textSize="25sp"
             android:textStyle="bold" />
 
