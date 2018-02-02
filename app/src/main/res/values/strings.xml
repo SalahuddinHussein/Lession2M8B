@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lession2M8B</string>
+    <string name="HeadTextView">Make the decisions Easier</string>
+    <string name="AdviceMe">Ask !</string>
 </resources>
